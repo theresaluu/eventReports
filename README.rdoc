@@ -1,0 +1,10 @@
+== Parsing Through GH Archive
+
+[ ] Set up Migrations
+[ ] Complete Controllers/Views
+[ ] Complete logic to parse through each fetched record
+[ ] Create filter logic for top 10
+[ ] Create filter logic for top 25
+[ ] Implement https://datatables.net
+[ ] Bootstrap this baby
+[ ] Show all Event Types via ajax
